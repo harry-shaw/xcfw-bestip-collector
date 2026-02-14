@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "少年你相信光吗",
+      "use": "@vercel/node"
+    }
+  ]
+}
