@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "少年你相信光吗",
+      "src": "_workers.js",
       "use": "@vercel/node"
     }
   ]
